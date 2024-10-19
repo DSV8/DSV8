@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Diogo Silveira Viana 👋
 
 <!--
 **DSV8/DSV8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
