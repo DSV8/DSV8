@@ -1,4 +1,8 @@
-## Hi, I'm Diogo Silveira Viana 👋
+## Hey there, I'm Diogo! 👋
+
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Frontend+Developer%3BSoftware+Engineer&width=230&height=55&font=Inter&size=20&center=false&theme=gruvbox&gradient=B88A35%2CE8C875&background=transparent&cursorColor=ffffff&textGlow=2&attribution=false)](https://github.com/dhanushnehru/ScribeSVG)
+
+
 
 <!--
 **DSV8/DSV8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
