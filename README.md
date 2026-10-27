@@ -24,12 +24,12 @@ I'm a software engineer who loves the part of development people actually see an
 
 When I'm not coding, I enjoy:
 
-- 🎮 Playing games and creating content around my favorite titles.
-- 🌍 Exploring new places, discovering different cultures, and making memories along the way.
-- 🎬 Always up for a good story, whether it's on the big screen or in an anime series.
-- 🎧 Discovering new sounds and having music accompany me throughout the day.
-- 😋 Trying new restaurants, exploring different cuisines, and discovering new favorites.
-- 🏋️ Working out, and continuously challenging myself.
+- 🎮 - Playing games and creating content around my favorite titles.
+- 🌍 - Exploring new places, discovering different cultures, and making memories along the way.
+- 🎬 - Always up for a good story, whether it's on the big screen or in an anime series.
+- 🎧 - Discovering new sounds and having music accompany me throughout the day.
+- 😋 - Trying new restaurants, exploring different cuisines, and discovering new favorites.
+- 🏋️ - Working out, and continuously challenging myself.
 
 ## 📄 · Resume
 
