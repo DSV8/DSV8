@@ -1,6 +1,6 @@
 ## Hey there, I'm Diogo! 👋
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Frontend+Developer%3BSoftware+Engineer&width=230&height=55&font=Inter&size=20&center=false&theme=gruvbox&gradient=B88A35%2CE8C875&background=1B1B1B&padding=10)](https://github.com/DSV8)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Frontend+Developer%3BSoftware+Engineer&width=230&height=55&font=Inter&size=20&theme=gruvbox&gradient=B88A35%2CE8C875&background=transparent&cursorColor=ffffff&textGlow=2&attribution=false)](https://github.com/DSV8)
 
 ## 👤 · About me
 
