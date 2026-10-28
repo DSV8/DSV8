@@ -10,9 +10,15 @@ I'm a software engineer who loves the part of development people actually see an
 
 ### Languages
 
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,php,py,c,cpp,java,haskell&theme=dark)](https://skillicons.dev)
+
 ### Frameworks & Libraries
 
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,laravel,nodejs,d3,threejs,tailwind&theme=dark)](https://skillicons.dev)
+
 ### Tools & Platforms
+
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,postgres,mysql,sqlite,docker,figma,jupyter,unity,latex,azuredevops&theme=dark)](https://skillicons.dev)
 
 ## 💻 · Projects
 
