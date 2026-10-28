@@ -52,7 +52,20 @@ Interested? Choose the CV format that best suits your needs.
 
 ## 🐍 · Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/DSV8/DSV8/output/snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DSV8/DSV8/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DSV8/DSV8/output/snake-light.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/DSV8/DSV8/output/snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
+</picture>
 
 <p align="left">
   <i>Thanks for visiting my profile! Have a great day. 👋</i>
