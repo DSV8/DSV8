@@ -18,7 +18,7 @@ I'm a software engineer who loves the part of development people actually see an
 
 ### Tools & Platforms
 
-[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,postgres,mysql,sqlite,docker,figma,jupyter,unity,latex,azuredevops&theme=dark)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,postgres,mysql,sqlite,docker,figma,unity,latex&theme=dark)](https://skillicons.dev)
 
 ## 💻 · Projects
 
