@@ -1,10 +1,10 @@
 ## Hey there, I'm Diogo! 👋
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Frontend+Developer%3BSoftware+Engineer&width=230&height=55&font=Inter&size=20&center=false&theme=gruvbox&gradient=B88A35%2CE8C875&background=transparent&cursorColor=ffffff&textGlow=2&attribution=false)](https://github.com/dhanushnehru/ScribeSVG)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Frontend+Developer%3BSoftware+Engineer&width=230&height=55&font=Inter&size=20&center=false&theme=gruvbox&gradient=B88A35%2CE8C875&background=1B1B1B&padding=10)](https://github.com/DSV8)
 
 ## 👤 · About me
 
-I'm a software engineer who loves the part of development people actually see and interact with. I've' completed my [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_origem=CAND) at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial), and I'm now focused on frontend development and UI/UX. I'm passionate about building intuitive, responsive, and accessible web experiences with clean, maintainable code.
+I'm a software engineer who loves the part of development people actually see and interact with. I've completed my [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=10036) and I'm passionate about building user-centered interfaces and interactive digital experiences.
 
 ## 🛠️ · Tech Stack
 
@@ -24,7 +24,14 @@ I'm a software engineer who loves the part of development people actually see an
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-|              |             |            |
+| ComPass (APPC) | Platform for the Associação do Porto de Paralisia Cerebral (APPC) that centralises functional profiles of people with functional diversity, connecting users, caregivers, and professionals. Includes accessibility work following WCAG 2.1 AA and multi-role interfaces adapted to account type. | React, Figma, WCAG 2.1 AA |
+| Interactive Sales Data Visualisation | Interactive dashboard for an online sales dataset with a choropleth map, annual revenue bar chart, calendar heatmap, and Sankey diagram. Includes linked filtering, tooltips, zooming, and animated transitions for exploration of sales and shipment patterns. | JavaScript, D3.js, HTML, CSS |
+| HealthSync | Mobile health app design in Figma inspired by SNS24, focused on healthcare access and user flows. | Figma, UI/UX Design |
+| Bee Simulator | 3D environment featuring an animated bee, hive, flowers, rocks, and grass. The player controls the bee through the scene, collecting pollen and delivering it to the hive. | WebGL, JavaScript |
+| TreeDesigner | Genealogy tree builder mobile app for creating and customising family trees with intuitive tools and templates. | Flutter, Dart, Figma |
+| SWC News | Collaborative news website where users share articles, leave comments, vote on posts, add friends, and filter content based on friendships. | Laravel, PHP, Bootstrap, JavaScript, AJAX, HTML, CSS, PostgreSQL |
+| Ticket Support Website | System for submitting support tickets, assigning them to departments and staff, and managing the conversation until resolution. | PHP, JavaScript, SQLite, HTML, CSS |
+| Dissertation: Exploring Collaborative Image Retrieval Models for Predicting Breast Cancer Aesthetic Outcomes | Retrieval framework that brings collaborative filtering into multimodal image retrieval, jointly learning image-patient representations and query-candidate relevance to rank clinician-defined aesthetic outcomes. Grade: 18/20. | Python, PyTorch, scikit-learn, NumPy, Pandas |
 
 ## ✨ · Beyond the Code
 
@@ -41,12 +48,12 @@ When I'm not coding, I enjoy:
 
 Interested? Choose the CV format that best suits your needs.
 
-[![CV](https://img.shields.io/badge/CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8+PHBhdGggZD0iTTE0IDJ2Nmg2Ii8+PHBhdGggZD0iTTEyIDEydjYiLz48cGF0aCBkPSJtOSAxNSAzIDMgMy0zIi8+PC9zdmc+)](./CVs/CV_Diogo_Viana.pdf)
-[![ATS CV](https://img.shields.io/badge/ATS_CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8+PHBhdGggZD0iTTE0IDJ2Nmg2Ii8+PHBhdGggZD0iTTEyIDEydjYiLz48cGF0aCBkPSJtOSAxNSAzIDMgMy0zIi8+PC9zdmc+)](./CVs/CV_Diogo_Viana_ATS.pdf)
+[![CV](https://img.shields.io/badge/CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGVMaW5lUXVhbD0iMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZC1ZZW0iIHN0eWxlPSJmaWxsOm5vbmU7Ii8+)](https://github.com/DSV8)
+[![ATS CV](https://img.shields.io/badge/ATS_CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGVMaW5lUXVhbD0iMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZC1ZZW0iIHN0eWxlPSJmaWxsOm5vbmU7Ii8+)](https://github.com/DSV8)
 
 ## 📞 · Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjlIMTIuN3YxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI2IDIuMzcgNC4yNiA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMC4wMCAyMy4yMyAuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNC43Ny43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/diogo-silveira-viana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGVMaW5lUXVhbD0iMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZC1ZZW0iIHN0eWxlPSJmaWxsOm5vbmU7Ii8+)](https://www.linkedin.com/in/diogo-silveira-viana/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.silveira.viana2003@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-238636?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351917255464)
 
