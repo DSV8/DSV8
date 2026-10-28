@@ -14,7 +14,7 @@ I'm a software engineer who loves the part of development people actually see an
 
 ### Frameworks & Libraries
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,laravel,nodejs,d3,threejs,tailwind&theme=dark)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,redux,laravel,nodejs,d3,threejs,tailwind,flutter&theme=dark)](https://skillicons.dev)
 
 ### Tools & Platforms
 
