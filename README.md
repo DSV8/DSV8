@@ -52,7 +52,7 @@ Interested? Choose the CV format that best suits your needs.
 
 ## 🐍 · Contribution Snake
 
-![snake](https://raw.githubusercontent.com/DSV8/DSV8/output/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/DSV8/DSV8/output/snake.svg)
 
 <p align="left">
   <i>Thanks for visiting my profile! Have a great day. 👋</i>
