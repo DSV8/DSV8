@@ -24,14 +24,14 @@ I'm a software engineer who loves the part of development people actually see an
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| ComPass (APPC) | Platform for the Associação do Porto de Paralisia Cerebral (APPC) that centralises functional profiles of people with functional diversity, connecting users, caregivers, and professionals. Includes accessibility work following WCAG 2.1 AA and multi-role interfaces adapted to account type. | React, Figma, WCAG 2.1 AA |
-| Interactive Sales Data Visualisation | Interactive dashboard for an online sales dataset with a choropleth map, annual revenue bar chart, calendar heatmap, and Sankey diagram. Includes linked filtering, tooltips, zooming, and animated transitions for exploration of sales and shipment patterns. | JavaScript, D3.js, HTML, CSS |
-| HealthSync | Mobile health app design in Figma inspired by SNS24, focused on healthcare access and user flows. | Figma, UI/UX Design |
-| Bee Simulator | 3D environment featuring an animated bee, hive, flowers, rocks, and grass. The player controls the bee through the scene, collecting pollen and delivering it to the hive. | WebGL, JavaScript |
-| TreeDesigner | Genealogy tree builder mobile app for creating and customising family trees with intuitive tools and templates. | Flutter, Dart, Figma |
-| SWC News | Collaborative news website where users share articles, leave comments, vote on posts, add friends, and filter content based on friendships. | Laravel, PHP, Bootstrap, JavaScript, AJAX, HTML, CSS, PostgreSQL |
-| Ticket Support Website | System for submitting support tickets, assigning them to departments and staff, and managing the conversation until resolution. | PHP, JavaScript, SQLite, HTML, CSS |
-| Dissertation: Exploring Collaborative Image Retrieval Models for Predicting Breast Cancer Aesthetic Outcomes | Retrieval framework that brings collaborative filtering into multimodal image retrieval, jointly learning image-patient representations and query-candidate relevance to rank clinician-defined aesthetic outcomes. Grade: 18/20. | Python, PyTorch, scikit-learn, NumPy, Pandas |
+| [ComPass (APPC)](https://github.com/compassappc/ComPassV2) | Platform for the Associação do Porto de Paralisia Cerebral (APPC) that centralises functional profiles of people with functional diversity, connecting users, caregivers, and professionals. Includes accessibility work following WCAG 2.1 AA and multi-role interfaces adapted to account type. | React, Figma, WCAG 2.1 AA |
+| [Interactive Sales Data Visualisation](https://github.com/DSV8/TUWIEN-IV/tree/main/group_project) | Interactive dashboard for an online sales dataset with a choropleth map, annual revenue bar chart, calendar heatmap, and Sankey diagram. Includes linked filtering, tooltips, zooming, and animated transitions for exploration of sales and shipment patterns. | JavaScript, D3.js, HTML, CSS |
+| [HealthSync]() | Mobile health app design in Figma inspired by SNS24, focused on healthcare access and user flows. | Figma, UI/UX Design |
+| [Bee Simulator](https://github.com/DSV8/FEUP-CG/tree/main/project) | 3D environment featuring an animated bee, hive, flowers, rocks, and grass. The player controls the bee through the scene, collecting pollen and delivering it to the hive. | WebGL, JavaScript |
+| [TreeDesigner](https://github.com/DSV8/FEUP-ESof) | Genealogy tree builder mobile app for creating and customising family trees with intuitive tools and templates. | Flutter, Dart, Figma |
+| [SWC News](https://github.com/DSV8/FEUP-LBAW) | Collaborative news website where users share articles, leave comments, vote on posts, add friends, and filter content based on friendships. | Laravel, PHP, Bootstrap, JavaScript, AJAX, HTML, CSS, PostgreSQL |
+| [Ticket Support Website](https://github.com/DSV8/FEUP-LTW) | System for submitting support tickets, assigning them to departments and staff, and managing the conversation until resolution. | PHP, JavaScript, SQLite, HTML, CSS |
+| [Dissertation: Exploring Collaborative Image Retrieval Models for Predicting Breast Cancer Aesthetic Outcomes](https://github.com/DSV8/FEUP-Dissertation) | Retrieval framework that brings collaborative filtering into multimodal image retrieval, jointly learning image-patient representations and query-candidate relevance to rank clinician-defined aesthetic outcomes. | Python, PyTorch, scikit-learn, NumPy, Pandas |
 
 ## ✨ · Beyond the Code
 
