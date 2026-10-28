@@ -4,7 +4,7 @@
 
 ## 👤 · About me
 
-I'm a software engineer who loves the part of development people actually see and interact with. I've' completed my MSc in Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto (FEUP), and I'm now focused on frontend development and UI/UX. I'm passionate about building intuitive, responsive, and accessible web experiences with clean, maintainable code.
+I'm a software engineer who loves the part of development people actually see and interact with. I've' completed my [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_origem=CAND) at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial), and I'm now focused on frontend development and UI/UX. I'm passionate about building intuitive, responsive, and accessible web experiences with clean, maintainable code.
 
 ## 🛠️ · Tech Stack
 
