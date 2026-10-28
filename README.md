@@ -41,10 +41,8 @@ When I'm not coding, I enjoy:
 
 Interested? Choose the CV format that best suits your needs.
 
-
 [![CV](https://img.shields.io/badge/CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8+PHBhdGggZD0iTTE0IDJ2Nmg2Ii8+PHBhdGggZD0iTTEyIDEydjYiLz48cGF0aCBkPSJtOSAxNSAzIDMgMy0zIi8+PC9zdmc+)](./CVs/CV_Diogo_Viana.pdf)
 [![ATS CV](https://img.shields.io/badge/ATS_CV-B88A35?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8+PHBhdGggZD0iTTE0IDJ2Nmg2Ii8+PHBhdGggZD0iTTEyIDEydjYiLz48cGF0aCBkPSJtOSAxNSAzIDMgMy0zIi8+PC9zdmc+)](./CVs/CV_Diogo_Viana_ATS.pdf)
-
 
 ## 📞 · Contact Me
 
@@ -52,10 +50,14 @@ Interested? Choose the CV format that best suits your needs.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.silveira.viana2003@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-238636?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTYuNjIgMTAuNzlhMTUuMDUgMTUuMDUgMCAwIDAgNi41OSA2LjU5bDIuMi0yLjJhMSAxIDAgMCAxIDEuMDItLjI0YzEuMTIuMzcgMi4zMy41NiAzLjU3LjU2YTEgMSAwIDAgMSAxIDFWMjBhMSAxIDAgMCAxLTEgMUMxMC42MSAyMSAzIDEzLjM5IDMgNGExIDEgMCAwIDEgMS0xaDMuNWExIDEgMCAwIDEgMSAxYzAgMS4yNC4xOSAyLjQ1LjU2IDMuNTdhMSAxIDAgMCAxLS4yNSAxLjAybC0yLjE5IDIuMnoiLz48L3N2Zz4=)](tel:+351917255464)
 
+## 🐍 · Contribution Snake
+
+![snake](https://raw.githubusercontent.com/DSV8/DSV8/output/snake.svg)
 
 <p align="left">
   <i>Thanks for visiting my profile! Have a great day. 👋</i>
 </p>
+
 
 
 <!--
